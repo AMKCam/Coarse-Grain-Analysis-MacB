@@ -1,0 +1,19 @@
+Domain,Lipid,Median_Count,Scaled_Median_Count
+Chain A TM2,CDL2,3.5,0.7
+Chain A TM2,POPE,24.0,4.8
+Chain A TM2,POPG,3.0,0.6
+Chain B TM2,CDL2,1.0,0.2
+Chain B TM2,POPE,30.0,6.0
+Chain B TM2,POPG,1.0,0.2
+Chain A TM1,CDL2,2.5,0.625
+Chain A TM1,POPE,62.0,15.5
+Chain A TM1,POPG,19.0,4.75
+Chain B TM1,CDL2,10.5,2.625
+Chain B TM1,POPE,55.0,13.75
+Chain B TM1,POPG,17.0,4.25
+Chain A NBD,CDL2,1.5,1.5
+Chain A NBD,POPE,15.0,15.0
+Chain A NBD,POPG,5.0,5.0
+Chain B NBD,CDL2,2.0,2.0
+Chain B NBD,POPE,19.0,19.0
+Chain B NBD,POPG,4.0,4.0
